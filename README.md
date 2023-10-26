@@ -9,7 +9,6 @@ This is a digital business card project created by Aladdin Elshamy. It serves as
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
