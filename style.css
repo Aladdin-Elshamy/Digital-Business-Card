@@ -18,15 +18,20 @@ img{
     border-top-left-radius: 20px;
 }
 
-.container{
+#root{
     margin-inline: auto; 
     width: min(450px,80%);
-    padding: 10px;
     
+    background-color: #1A1B21;
+}
+.container{
+    background-color: #fff;
+    padding: 10px;
 }
 
 .info-section{
     text-align: center;
+    
 }
 .text{
     background-color: #1A1B21;
